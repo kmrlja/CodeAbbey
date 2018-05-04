@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAPlusB", "SumAPlusB\SumAPlusB.csproj", "{F2AD7469-B2ED-40D2-8BD9-9BDB3C6964D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumLoop", "SumLoop\SumLoop.csproj", "{0ADB6DAB-E6A0-4C69-BBD9-A3FBE572AD65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F2AD7469-B2ED-40D2-8BD9-9BDB3C6964D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2AD7469-B2ED-40D2-8BD9-9BDB3C6964D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2AD7469-B2ED-40D2-8BD9-9BDB3C6964D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ADB6DAB-E6A0-4C69-BBD9-A3FBE572AD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADB6DAB-E6A0-4C69-BBD9-A3FBE572AD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADB6DAB-E6A0-4C69-BBD9-A3FBE572AD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADB6DAB-E6A0-4C69-BBD9-A3FBE572AD65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
